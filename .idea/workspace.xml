@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95b9b84e-7c1f-4fc6-8f5b-37c306d6bf40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nearbyshops/migrations/0002_auto_20200310_1427.py" beforeDir="false" afterPath="$PROJECT_DIR$/nearbyshops/migrations/0002_auto_20200310_1427.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nearbyshops/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/nearbyshops/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shops/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shops/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SvnConfiguration">
@@ -39,5 +40,16 @@
       <updated>1583848591657</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583861868020">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="224" y="214" key="#com.intellij.fileTypes.FileTypeChooser/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1583861868020" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1584561147838">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583861240192" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1584561147838" />
   </component>
 </project>
