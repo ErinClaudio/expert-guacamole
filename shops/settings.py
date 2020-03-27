@@ -25,7 +25,7 @@ SECRET_KEY = 'tm*pqirh4-0suc%05z5c44#kxyxf7r3f-qd0d%w9^cldpodz0('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://whispering-beyond-58248.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 GDAL_LIBRARY_PATH = os.environ.get('GDAL_LIBRARY_PATH')
 GEOS_LIBRARY_PATH = os.environ.get('GEOS_LIBRARY_PATH')
@@ -81,12 +81,11 @@ WSGI_APPLICATION = 'shops.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': "postgis_test",
-        'USER': 'shopadmin',
-        'PASSWORD': 'freedomjedi69',
-        'HOST': 'localhost',
-        'PORT': '5432'
-        ,
+        'NAME': 'd3euout1moi23f',
+        'USER': 'zjkumakfnjfyqv',
+        'PASSWORD': '8c20dc3aa8e3596637b62cbf480fb2cdcd1453bbd458df566a1dfaf6ae902f17',
+        'HOST': 'ec2-34-200-101-236.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
