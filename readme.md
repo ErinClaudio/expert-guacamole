@@ -7,7 +7,7 @@ DESCRIPTION
 A Python/Django project with a PostGIS extension and Leaflet
 This Project has a database hosted in Heroku. 
 
-Some of the highlights include:
+HIGHLIGHTS
 
 This project was one of the most challenging projects I completed up to that date.
 Working with and finding an effective way to host a PostGIS extension was challenging. 
