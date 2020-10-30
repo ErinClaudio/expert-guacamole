@@ -3,10 +3,11 @@ NAME
 Mapping 20Fathom's
 
 ADDRESS
-
-[PostgreSQL/PostGIS Mapping] (https://tranquil-springs-58874.herokuapp.com/)
+(https://tranquil-springs-58874.herokuapp.com/)
 
 DESCRIPTION
+
+[PostgreSQL/PostGIS Mapping]
 
 A Python/Django project with a PostGIS extension and Leaflet
 This Project has a database hosted in Heroku. 
